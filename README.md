@@ -1,5 +1,5 @@
 # Unimed-BH
-Bootcamp Digital Innovation One and Unimed-BH
+Repository to solve the Data Science challanges for the Unimed-BH Bootcamp provided by Digital Innovation One.
 
 
 <p align="center">
